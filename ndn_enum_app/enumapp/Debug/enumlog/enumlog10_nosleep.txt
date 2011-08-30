@@ -1,0 +1,1300 @@
+1314408228.655799 = 08-26-2011 18:23:48.655799
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408228.689735 = 08-26-2011 18:23:48.689735
+0.033936
+1314408228.692038 = 08-26-2011 18:23:48.692038
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408228.726286 = 08-26-2011 18:23:48.726286
+0.034248
+1314408228.728539 = 08-26-2011 18:23:48.728539
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408228.762464 = 08-26-2011 18:23:48.762464
+0.033925
+1314408228.764629 = 08-26-2011 18:23:48.764629
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408228.798428 = 08-26-2011 18:23:48.798428
+0.033799
+1314408228.800619 = 08-26-2011 18:23:48.800619
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408228.834513 = 08-26-2011 18:23:48.834513
+0.033894
+1314408228.836669 = 08-26-2011 18:23:48.836669
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408228.870381 = 08-26-2011 18:23:48.870381
+0.033712
+1314408228.872464 = 08-26-2011 18:23:48.872464
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408228.906196 = 08-26-2011 18:23:48.906196
+0.033732
+1314408228.908257 = 08-26-2011 18:23:48.908257
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408228.941990 = 08-26-2011 18:23:48.941990
+0.033733
+1314408228.944004 = 08-26-2011 18:23:48.944004
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408228.977719 = 08-26-2011 18:23:48.977719
+0.033715
+1314408228.979703 = 08-26-2011 18:23:48.979703
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.003453 = 08-26-2011 18:23:49.003453
+0.023750
+1314408229.005537 = 08-26-2011 18:23:49.005537
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.039242 = 08-26-2011 18:23:49.039242
+0.033705
+1314408229.041261 = 08-26-2011 18:23:49.041261
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.075065 = 08-26-2011 18:23:49.075065
+0.033804
+1314408229.077175 = 08-26-2011 18:23:49.077175
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.110984 = 08-26-2011 18:23:49.110984
+0.033809
+1314408229.113013 = 08-26-2011 18:23:49.113013
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.146730 = 08-26-2011 18:23:49.146730
+0.033717
+1314408229.148745 = 08-26-2011 18:23:49.148745
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.182446 = 08-26-2011 18:23:49.182446
+0.033701
+1314408229.184455 = 08-26-2011 18:23:49.184455
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.218165 = 08-26-2011 18:23:49.218165
+0.033710
+1314408229.220159 = 08-26-2011 18:23:49.220159
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.253854 = 08-26-2011 18:23:49.253854
+0.033695
+1314408229.255812 = 08-26-2011 18:23:49.255812
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.289503 = 08-26-2011 18:23:49.289503
+0.033691
+1314408229.291732 = 08-26-2011 18:23:49.291732
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.325458 = 08-26-2011 18:23:49.325458
+0.033726
+1314408229.327457 = 08-26-2011 18:23:49.327457
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.361218 = 08-26-2011 18:23:49.361218
+0.033761
+1314408229.363202 = 08-26-2011 18:23:49.363202
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.396914 = 08-26-2011 18:23:49.396914
+0.033712
+1314408229.399146 = 08-26-2011 18:23:49.399146
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.432954 = 08-26-2011 18:23:49.432954
+0.033808
+1314408229.435149 = 08-26-2011 18:23:49.435149
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.468932 = 08-26-2011 18:23:49.468932
+0.033783
+1314408229.471846 = 08-26-2011 18:23:49.471846
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.505616 = 08-26-2011 18:23:49.505616
+0.033770
+1314408229.507801 = 08-26-2011 18:23:49.507801
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.541549 = 08-26-2011 18:23:49.541549
+0.033748
+1314408229.543574 = 08-26-2011 18:23:49.543574
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.577301 = 08-26-2011 18:23:49.577301
+0.033727
+1314408229.579737 = 08-26-2011 18:23:49.579737
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.613569 = 08-26-2011 18:23:49.613569
+0.033832
+1314408229.615695 = 08-26-2011 18:23:49.615695
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.649473 = 08-26-2011 18:23:49.649473
+0.033778
+1314408229.651601 = 08-26-2011 18:23:49.651601
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.685369 = 08-26-2011 18:23:49.685369
+0.033768
+1314408229.687529 = 08-26-2011 18:23:49.687529
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.721312 = 08-26-2011 18:23:49.721312
+0.033783
+1314408229.723338 = 08-26-2011 18:23:49.723338
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.757060 = 08-26-2011 18:23:49.757060
+0.033722
+1314408229.759162 = 08-26-2011 18:23:49.759162
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.792834 = 08-26-2011 18:23:49.792834
+0.033672
+1314408229.794977 = 08-26-2011 18:23:49.794977
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.828755 = 08-26-2011 18:23:49.828755
+0.033778
+1314408229.830888 = 08-26-2011 18:23:49.830888
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.864744 = 08-26-2011 18:23:49.864744
+0.033856
+1314408229.866960 = 08-26-2011 18:23:49.866960
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.900745 = 08-26-2011 18:23:49.900745
+0.033785
+1314408229.902905 = 08-26-2011 18:23:49.902905
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.936685 = 08-26-2011 18:23:49.936685
+0.033780
+1314408229.938771 = 08-26-2011 18:23:49.938771
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408229.972519 = 08-26-2011 18:23:49.972519
+0.033748
+1314408229.974647 = 08-26-2011 18:23:49.974647
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.008404 = 08-26-2011 18:23:50.008404
+0.033757
+1314408230.010521 = 08-26-2011 18:23:50.010521
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.044337 = 08-26-2011 18:23:50.044337
+0.033816
+1314408230.046577 = 08-26-2011 18:23:50.046577
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.080433 = 08-26-2011 18:23:50.080433
+0.033856
+1314408230.082605 = 08-26-2011 18:23:50.082605
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.117645 = 08-26-2011 18:23:50.117645
+0.035040
+1314408230.119933 = 08-26-2011 18:23:50.119933
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.154184 = 08-26-2011 18:23:50.154184
+0.034251
+1314408230.156727 = 08-26-2011 18:23:50.156727
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.190503 = 08-26-2011 18:23:50.190503
+0.033776
+1314408230.192763 = 08-26-2011 18:23:50.192763
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.226578 = 08-26-2011 18:23:50.226578
+0.033815
+1314408230.228581 = 08-26-2011 18:23:50.228581
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.262393 = 08-26-2011 18:23:50.262393
+0.033812
+1314408230.264503 = 08-26-2011 18:23:50.264503
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.298295 = 08-26-2011 18:23:50.298295
+0.033792
+1314408230.300548 = 08-26-2011 18:23:50.300548
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.334366 = 08-26-2011 18:23:50.334366
+0.033818
+1314408230.336672 = 08-26-2011 18:23:50.336672
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.370485 = 08-26-2011 18:23:50.370485
+0.033813
+1314408230.372872 = 08-26-2011 18:23:50.372872
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.406580 = 08-26-2011 18:23:50.406580
+0.033708
+1314408230.408961 = 08-26-2011 18:23:50.408961
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.442827 = 08-26-2011 18:23:50.442827
+0.033866
+1314408230.445027 = 08-26-2011 18:23:50.445027
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.478905 = 08-26-2011 18:23:50.478905
+0.033878
+1314408230.481307 = 08-26-2011 18:23:50.481307
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.515117 = 08-26-2011 18:23:50.515117
+0.033810
+1314408230.517261 = 08-26-2011 18:23:50.517261
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.551126 = 08-26-2011 18:23:50.551126
+0.033865
+1314408230.553370 = 08-26-2011 18:23:50.553370
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.587163 = 08-26-2011 18:23:50.587163
+0.033793
+1314408230.589568 = 08-26-2011 18:23:50.589568
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.623871 = 08-26-2011 18:23:50.623871
+0.034303
+1314408230.626021 = 08-26-2011 18:23:50.626021
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.659826 = 08-26-2011 18:23:50.659826
+0.033805
+1314408230.661932 = 08-26-2011 18:23:50.661932
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.695749 = 08-26-2011 18:23:50.695749
+0.033817
+1314408230.697792 = 08-26-2011 18:23:50.697792
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.731499 = 08-26-2011 18:23:50.731499
+0.033707
+1314408230.733408 = 08-26-2011 18:23:50.733408
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.767112 = 08-26-2011 18:23:50.767112
+0.033704
+1314408230.769092 = 08-26-2011 18:23:50.769092
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.802839 = 08-26-2011 18:23:50.802839
+0.033747
+1314408230.804785 = 08-26-2011 18:23:50.804785
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.838510 = 08-26-2011 18:23:50.838510
+0.033725
+1314408230.840615 = 08-26-2011 18:23:50.840615
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.875854 = 08-26-2011 18:23:50.875854
+0.035239
+1314408230.877963 = 08-26-2011 18:23:50.877963
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.911766 = 08-26-2011 18:23:50.911766
+0.033803
+1314408230.913932 = 08-26-2011 18:23:50.913932
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.939900 = 08-26-2011 18:23:50.939900
+0.025968
+1314408230.942046 = 08-26-2011 18:23:50.942046
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408230.976121 = 08-26-2011 18:23:50.976121
+0.034075
+1314408230.978296 = 08-26-2011 18:23:50.978296
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.002075 = 08-26-2011 18:23:51.002075
+0.023779
+1314408231.004375 = 08-26-2011 18:23:51.004375
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.038753 = 08-26-2011 18:23:51.038753
+0.034378
+1314408231.040790 = 08-26-2011 18:23:51.040790
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.075208 = 08-26-2011 18:23:51.075208
+0.034418
+1314408231.077481 = 08-26-2011 18:23:51.077481
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.114977 = 08-26-2011 18:23:51.114977
+0.037496
+1314408231.117129 = 08-26-2011 18:23:51.117129
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.150965 = 08-26-2011 18:23:51.150965
+0.033836
+1314408231.153110 = 08-26-2011 18:23:51.153110
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.180414 = 08-26-2011 18:23:51.180414
+0.027304
+1314408231.182537 = 08-26-2011 18:23:51.182537
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.216367 = 08-26-2011 18:23:51.216367
+0.033830
+1314408231.218576 = 08-26-2011 18:23:51.218576
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.252454 = 08-26-2011 18:23:51.252454
+0.033878
+1314408231.254672 = 08-26-2011 18:23:51.254672
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.289566 = 08-26-2011 18:23:51.289566
+0.034894
+1314408231.291661 = 08-26-2011 18:23:51.291661
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.325536 = 08-26-2011 18:23:51.325536
+0.033875
+1314408231.327668 = 08-26-2011 18:23:51.327668
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.361784 = 08-26-2011 18:23:51.361784
+0.034116
+1314408231.363984 = 08-26-2011 18:23:51.363984
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.397761 = 08-26-2011 18:23:51.397761
+0.033777
+1314408231.399937 = 08-26-2011 18:23:51.399937
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.434079 = 08-26-2011 18:23:51.434079
+0.034142
+1314408231.436176 = 08-26-2011 18:23:51.436176
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.470254 = 08-26-2011 18:23:51.470254
+0.034078
+1314408231.472383 = 08-26-2011 18:23:51.472383
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.506331 = 08-26-2011 18:23:51.506331
+0.033948
+1314408231.508410 = 08-26-2011 18:23:51.508410
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.542197 = 08-26-2011 18:23:51.542197
+0.033787
+1314408231.544125 = 08-26-2011 18:23:51.544125
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.578002 = 08-26-2011 18:23:51.578002
+0.033877
+1314408231.580134 = 08-26-2011 18:23:51.580134
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.615665 = 08-26-2011 18:23:51.615665
+0.035531
+1314408231.618053 = 08-26-2011 18:23:51.618053
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.654140 = 08-26-2011 18:23:51.654140
+0.036087
+1314408231.656649 = 08-26-2011 18:23:51.656649
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.690652 = 08-26-2011 18:23:51.690652
+0.034003
+1314408231.692834 = 08-26-2011 18:23:51.692834
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.728194 = 08-26-2011 18:23:51.728194
+0.035360
+1314408231.730358 = 08-26-2011 18:23:51.730358
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.764379 = 08-26-2011 18:23:51.764379
+0.034021
+1314408231.766611 = 08-26-2011 18:23:51.766611
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.800697 = 08-26-2011 18:23:51.800697
+0.034086
+1314408231.802865 = 08-26-2011 18:23:51.802865
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.837087 = 08-26-2011 18:23:51.837087
+0.034222
+1314408231.839295 = 08-26-2011 18:23:51.839295
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.873214 = 08-26-2011 18:23:51.873214
+0.033919
+1314408231.875395 = 08-26-2011 18:23:51.875395
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.909191 = 08-26-2011 18:23:51.909191
+0.033796
+1314408231.911183 = 08-26-2011 18:23:51.911183
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.945026 = 08-26-2011 18:23:51.945026
+0.033843
+1314408231.947175 = 08-26-2011 18:23:51.947175
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408231.980939 = 08-26-2011 18:23:51.980939
+0.033764
+1314408231.982975 = 08-26-2011 18:23:51.982975
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408232.007002 = 08-26-2011 18:23:52.007002
+0.024027
+1314408232.009163 = 08-26-2011 18:23:52.009163
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408232.043153 = 08-26-2011 18:23:52.043153
+0.033990
+1314408232.045416 = 08-26-2011 18:23:52.045416
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408232.079289 = 08-26-2011 18:23:52.079289
+0.033873
+1314408232.081505 = 08-26-2011 18:23:52.081505
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408232.115203 = 08-26-2011 18:23:52.115203
+0.033698
+1314408232.117127 = 08-26-2011 18:23:52.117127
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408232.150945 = 08-26-2011 18:23:52.150945
+0.033818
+1314408232.152892 = 08-26-2011 18:23:52.152892
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408232.186655 = 08-26-2011 18:23:52.186655
+0.033763
+1314408232.188559 = 08-26-2011 18:23:52.188559
+ccnx:/ndn/app/files/001
+ccnx:/ndn/app/files/002
+ccnx:/ndn/app/files/003
+ccnx:/ndn/app/files/004
+ccnx:/ndn/app/files/005
+ccnx:/ndn/app/files/006
+ccnx:/ndn/app/files/007
+ccnx:/ndn/app/files/008
+ccnx:/ndn/app/files/009
+ccnx:/ndn/app/files/010
+1314408232.222347 = 08-26-2011 18:23:52.222347
+0.033788
